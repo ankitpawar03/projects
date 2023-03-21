@@ -33,6 +33,7 @@ body{
 }
 
 .search input{
+    width: 100%;
     outline: none;
     border: none;
     background: #ebfffc;
